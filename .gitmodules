@@ -1,4 +1,0 @@
-[submodule "relay-js"]
-	path = relay-js
-	url = https://github.com/relaypro/relay-js.git
-	branch = gh-pages
